@@ -1,0 +1,3 @@
+Time,Anomaly message,Type of anomaly,Number of Inmates in Jail,ImagePath
+2024-03-13 20:46:58,"Inmates are not in the right number, current number of inmates is 6, expected number was 1 , storing the frame in the database as anomalyframes/2024-03-13 20:46:58.jpg",Inmate count anomaly,6,anomalyframes/2024-03-13 20:46:58.jpg
+2024-03-13 20:47:03,"Inmates are not in the right number, current number of inmates is 2, expected number was 1 , storing the frame in the database as anomalyframes/2024-03-13 20:47:03.jpg",Inmate count anomaly,2,anomalyframes/2024-03-13 20:47:03.jpg
