@@ -2,7 +2,6 @@ import numpy as np
 import cv2
 import pygame
 import matplotlib.pyplot as plt
-
 # Initialize pygame
 pygame.mixer.init()
 
