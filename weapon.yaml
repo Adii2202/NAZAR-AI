@@ -1,0 +1,15 @@
+names:
+- Grenade
+- Handgun
+- Rifle
+- Steel arms
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: weapondetector-h78wx
+  url: https://universe.roboflow.com/weapondetector-wtbl4/weapondetector-h78wx/dataset/2
+  version: 2
+  workspace: weapondetector-wtbl4
+test: ../test/images
+train: WeaponDetector-2/train/images
+val: WeaponDetector-2/valid/images

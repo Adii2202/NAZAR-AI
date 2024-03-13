@@ -1,3 +1,33 @@
-Time,Anomaly message,Type of anomaly,Number of Inmates in Jail,ImagePath
-2024-03-13 20:46:58,"Inmates are not in the right number, current number of inmates is 6, expected number was 1 , storing the frame in the database as anomalyframes/2024-03-13 20:46:58.jpg",Inmate count anomaly,6,anomalyframes/2024-03-13 20:46:58.jpg
-2024-03-13 20:47:03,"Inmates are not in the right number, current number of inmates is 2, expected number was 1 , storing the frame in the database as anomalyframes/2024-03-13 20:47:03.jpg",Inmate count anomaly,2,anomalyframes/2024-03-13 20:47:03.jpg
+Timestamp,Type of anomaly,Number of People present,Path of image
+2024-03-14 01:48:59,overcrowding,1,frames/2024-03-14 01:48:59.jpg
+2024-03-14 01:49:00,overcrowding,3,frames/2024-03-14 01:49:00.jpg
+2024-03-14 01:49:02,overcrowding,2,frames/2024-03-14 01:49:02.jpg
+2024-03-14 01:49:04,overcrowding,1,frames/2024-03-14 01:49:04.jpg
+2024-03-14 01:49:06,overcrowding,1,frames/2024-03-14 01:49:06.jpg
+2024-03-14 01:49:10,overcrowding,1,frames/2024-03-14 01:49:10.jpg
+2024-03-14 01:49:15,overcrowding,1,frames/2024-03-14 01:49:15.jpg
+2024-03-14 01:49:20,overcrowding,1,frames/2024-03-14 01:49:20.jpg
+2024-03-14 01:49:24,overcrowding,1,frames/2024-03-14 01:49:24.jpg
+2024-03-14 01:49:29,overcrowding,1,frames/2024-03-14 01:49:29.jpg
+2024-03-14 01:49:34,overcrowding,1,frames/2024-03-14 01:49:34.jpg
+2024-03-14 01:49:38,overcrowding,1,frames/2024-03-14 01:49:38.jpg
+2024-03-14 01:49:43,overcrowding,1,frames/2024-03-14 01:49:43.jpg
+2024-03-14 01:49:48,Weapons,0,frames/2024-03-14 01:49:48.jpg
+2024-03-14 01:49:53,Weapons,0,frames/2024-03-14 01:49:53.jpg
+2024-03-14 01:49:57,Weapons,0,frames/2024-03-14 01:49:57.jpg
+2024-03-14 01:50:01,overcrowding,1,frames/2024-03-14 01:50:01.jpg
+2024-03-14 01:50:07,overcrowding,1,frames/2024-03-14 01:50:07.jpg
+2024-03-14 01:57:57,overcrowding,1,frames/2024-03-14 01:57:57.jpg
+2024-03-14 01:58:01,overcrowding,1,frames/2024-03-14 01:58:01.jpg
+2024-03-14 01:58:06,overcrowding,1,frames/2024-03-14 01:58:06.jpg
+2024-03-14 01:58:51,overcrowding,1,frames/2024-03-14 01:58:51.jpg
+2024-03-14 01:58:56,overcrowding,1,frames/2024-03-14 01:58:56.jpg
+2024-03-14 01:59:01,overcrowding,1,frames/2024-03-14 01:59:01.jpg
+2024-03-14 01:59:02,Weapons,0,frames/2024-03-14 01:59:02.jpg
+2024-03-14 01:59:06,overcrowding,1,frames/2024-03-14 01:59:06.jpg
+2024-03-14 01:59:11,overcrowding,1,frames/2024-03-14 01:59:11.jpg
+2024-03-14 01:59:16,overcrowding,1,frames/2024-03-14 01:59:16.jpg
+2024-03-14 01:59:20,overcrowding,1,frames/2024-03-14 01:59:20.jpg
+2024-03-14 01:59:25,overcrowding,1,frames/2024-03-14 01:59:25.jpg
+2024-03-14 01:59:30,overcrowding,1,frames/2024-03-14 01:59:30.jpg
+2024-03-14 01:59:35,overcrowding,1,frames/2024-03-14 01:59:35.jpg
