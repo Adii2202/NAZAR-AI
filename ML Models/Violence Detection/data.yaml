@@ -1,0 +1,15 @@
+names:
+- '-'
+- '0'
+- '3'
+- Violence - Weapon Detection - v1 2023-09-11 8-03pm
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: violence-detection-vt0wq
+  url: https://universe.roboflow.com/my-space-vvenu/violence-detection-vt0wq/dataset/1
+  version: 1
+  workspace: my-space-vvenu
+test: test/images
+train: train/images
+val: valid/images

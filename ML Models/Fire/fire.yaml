@@ -1,0 +1,13 @@
+names:
+- '-'
+- fire - v1 2024-01-12 8-02pm
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: fire_detector-g4lir
+  url: https://universe.roboflow.com/vision-zz6rk/fire_detector-g4lir/dataset/4
+  version: 4
+  workspace: vision-zz6rk
+test: ../test/images
+train: train/images
+val: valid/images
