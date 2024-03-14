@@ -1,0 +1,13 @@
+names:
+- Kidnap
+- Non_Kidnap
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: surveillance-using-ml
+  url: https://universe.roboflow.com/college-inloj/surveillance-using-ml/dataset/1
+  version: 1
+  workspace: college-inloj
+test: ../test/images
+train: train/images
+val: valid/images
